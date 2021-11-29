@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+virtualEntMiProyecto
+/static
+.DS_Store
